@@ -1,0 +1,10 @@
+/**
+ * Editor Toolkit: TinyMCE stylesheet
+ */
+
+html .mceContentBody { max-width: none; }
+
+.editor-toolkit div { clear: both; position: relative; margin: 20px 10px; padding: 20px; border: 1px dashed #666; background: none no-repeat scroll 5px 5px rgba(125, 125, 125, 0.1); }
+	.editor-toolkit div div { margin: 20px 0 5px 0; }
+	.editor-toolkit div > *:first-child { margin-top: 0; }
+	.editor-toolkit div > *:last-child { margin-bottom: 0; }
